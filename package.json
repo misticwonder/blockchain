@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "node dev/test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
